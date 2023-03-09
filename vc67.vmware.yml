@@ -1,0 +1,8 @@
+plugin: vmware_vm_inventory
+strict: False
+hostname: domain.biz
+username: user@domain.local
+password: pass
+validate_certs: False
+with_tags: True
+cache: yes
